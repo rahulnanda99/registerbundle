@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assid</string>
+    <string-array name="fac">
+        <item>Select Course</item>
+        <item>java</item>
+        <item>android</item>
+        <item>python</item>
+    </string-array>
+</resources>
